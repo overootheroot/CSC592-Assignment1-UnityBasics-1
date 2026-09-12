@@ -40,7 +40,7 @@ This scene contains a playable maze built using Unity cube objects. The maze inc
 
 The Starter Assets Third Person Character Controller and Cinemachine packages are used in this scene.
 
-![Scene 2](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/raw/refs/heads/main/Assets/Assignments/Unity%20Basics/Screenshots/Scene2_Maze.png)
+![Scene 2](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/blob/main/Assets/Assigments/Unity%20Basics/Screenshots/Scene2_Maze.png)
 
 ## Scene 3 – 360 VR Environment
 
@@ -54,13 +54,14 @@ This scene displays a 360-degree panoramic environment using a panoramic skybox 
 
 When viewed using a compatible VR headset, the user can look around the complete 360-degree environment.
 
-![Scene 3](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/raw/refs/heads/main/Assets/Assignments/Unity%20Basics/Screenshots/Scene3_VR360.png)
+![Scene 3](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/blob/main/Assets/Assigments/Unity%20Basics/Screenshots/Scene3_VR360.png
+)
 
 ## Graduate Bonus – Runtime Color Change
 
 The graduate-student bonus feature changes an object's material color while the application is running. The feature is implemented using the `ColorChanger.cs` script.
 
-![Bonus Color Change](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/raw/refs/heads/main/Assets/Assignments/Unity%20Basics/Screenshots/Bonus1_ColorChange.png)
+![Bonus Color Change](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/blob/main/Assets/Assigments/Unity%20Basics/Screenshots/Bonus1_ColorChange.png)
 
 ## Controls
 
