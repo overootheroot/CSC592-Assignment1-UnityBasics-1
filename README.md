@@ -25,7 +25,7 @@ Three separate materials were created and applied to the objects:
 * `Mat_Blue`
 * `Mat_Green`
 
-![Scene 1](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/raw/refs/heads/main/Assets/Assignments/Unity%20Basics/Screenshots/Scene1_Primitives.png)
+![Scene 1](https://github.com/overootheroot/CSC592-Assignment1-UnityBasics-1/blob/main/Assets/Assigments/Unity%20Basics/Screenshots/Scene1_Primitives.png)
 
 ## Scene 2 – Maze
 
